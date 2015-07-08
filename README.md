@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+First Repository'
+
+Lets start making this read me file more informative
